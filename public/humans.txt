@@ -1,11 +1,10 @@
 /* TEAM */
-Empresa: Lavanderia Breier
+Empresa: Easy Wash Lavanderia Autoatendimento
 Local: Novo Hamburgo, Rio Grande do Sul, Brasil
-Website: https://studiotche.github.io/lavanderia-breier/
-Contato: (51) 99919-9846
+Website: https://studiotche.github.io/lavanderia-easy-wash/
+Contato: (51) 99228-5222
 
 /* SITE */
 Doctype: HTML5
 Framework: Astro
 Styles: CSS Moderno Vanilla
-Licenciamento Ambiental: SEMAM Novo Hamburgo

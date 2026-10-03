@@ -1,42 +1,37 @@
-# Lavanderia Breier
+# Easy Wash Lavanderia Autoatendimento
 
-> Cuidado profissional para suas peças com coleta e entrega em Novo Hamburgo/RS. Especialistas em lavagem de roupas, lavagem a seco, tapetes, cortinas, calçados, linha pet, couro e atendimento institucional com licença de operação SEMAM Novo Hamburgo.
+> Lavanderia de autoatendimento moderna em Novo Hamburgo/RS. Lave e seque suas roupas em menos de 1 hora com sabão e amaciante profissionais inclusos, espaço 100% climatizado, Wi-Fi de alta velocidade e suporte rápido via WhatsApp.
 
-- Site oficial: https://studiotche.github.io/lavanderia-breier/
-- WhatsApp Principal: https://wa.me/5551999199846?text=Ol%C3%A1%2C%20Lavanderia%20Novo Hamburgo!%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento.
-- WhatsApp Alternativo: https://wa.me/5551993019846?text=Ol%C3%A1%2C%20Lavanderia%20Novo Hamburgo!%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento.
-- Telefone Fixo: tel:+555135636908 ((51) 3563-6908)
-- Instagram: https://www.instagram.com/lavanderiabreier/
-- Perfil e Avaliações no Google: https://www.google.com/maps/place/Lavanderia+Novo Hamburgo/@-29.6055194,-51.1627442,945m/data=!3m2!1e3!4b1!4m6!3m5!1s0x95194540c4744a09:0x3cee5cae859095c0!8m2!3d-29.6055194!4d-51.1627442!16s%2Fg%2F1ptw__92w
+- Site oficial: https://studiotche.github.io/lavanderia-easy-wash/
+- WhatsApp Principal: https://wa.me/5551992285222?text=Ol%C3%A1%2C%20Easy%20Wash!%20Gostaria%20de%20tirar%20uma%20d%C3%BAvida.
+- Instagram: https://www.instagram.com/easywashnh/ (@easywashnh)
+- Perfil e Avaliações no Google: https://www.google.com/maps/place/Easy+Wash+Lavanderia+Autoatendimento+Novo+Hamburgo/@-29.6781012,-51.137327,656m/data=!3m1!1e3!4m15!1m8!3m7!1s0x951943003876459f:0x5d2179ee9022864e!2sEasy+Wash+Lavanderia+Autoatendimento+Novo+Hamburgo!8m2!3d-29.6781317!4d-51.137551!10e5!16s%2Fg%2F11xcyk9c7r!3m5!1s0x951943003876459f:0x5d2179ee9022864e!8m2!3d-29.6781317!4d-51.137551!16s%2Fg%2F11xcyk9c7r
 
 ## Informações Gerais e Localização
 
-- Razão / Nome Fantasia: Lavanderia Breier
-- Endereço: Av. Pres. Lucena, 2084, Bairro Concórdia, Novo Hamburgo - RS, CEP 93900-000
-- Plus Code: 9RVP+QW Concórdia, Novo Hamburgo - RS
-- Coleta e Entrega: Grátis em Novo Hamburgo/RS (residencial e empresarial)
-- Licença Ambiental: Licença de Operação ativa emitida pela Secretaria Municipal de Meio Ambiente (SEMAM Novo Hamburgo)
-- Reputação: Avaliação 4,6 de 5 estrelas no Google
+- Nome Fantasia: Easy Wash Lavanderia Autoatendimento
+- Endereço: Rua Caeté, 19, Bairro Vila Rosa, Novo Hamburgo - RS, CEP 93315-180
+- Cidade: Novo Hamburgo / RS
+- Modelo: Autoatendimento Express (Self-service)
+- Reputação: Avaliação 5,0 de 5 estrelas no Google Maps
 
 ## Horários de Funcionamento
 
-- Segunda a sexta-feira: 08:00 às 12:00 e 13:00 às 18:00
-- Sábado: 08:00 às 12:00
-- Domingo: Fechado
+- Segunda a Domingo: 06:00 às 23:00 (Aberto todos os dias, inclusive feriados)
 
-## Serviços Especializados
+## Serviços e Capacidades
 
-- **Lavagem de Roupas e a Seco**: Roupas de uso diário, camisas sociais, ternos, paletós, vestidos de festa e tecidos finos com lavagem a seco profissional.
-- **Tapetes e Cortinas**: Lavagem técnica e higienização para tapetes orientais, felpudos e cortinas delicadas com secagem controlada.
-- **Tênis e Calçados**: Limpeza minuciosa interna e externa, higienização de solados e cadarços, desodorização e renovação do aspecto original.
-- **Linha Pet Especializada**: Desinfecção bactericida e fungicida de caminhas, mantas, roupinhas e tapetes pet com produtos atóxicos e hipoalergênicos.
-- **Jaquetas de Couro e Motoqueiro**: Limpeza técnica e hidratação profunda de peças em couro legítimo, macacões e jaquetas de motociclista com proteção UV.
-- **Passadoria Profissional**: Passadoria a vapor com acabamento impecável, prontas em cabide ou dobradas para facilitar sua rotina.
-- **Rouparia Profissional / Atendimento Institucional**: Contratos corporativos para clínicas, consultórios, centros de diagnóstico e estéticas, com controle microbiológico, laudos e rastreabilidade.
+- **Lavagem de Roupas do Dia a Dia**: Ciclo rápido (~30 min) com dosagem automática de sabão e amaciante de primeira linha.
+- **Secagem de Alta Performance**: Secadoras industriais que entregam roupas secas, macias e desodorizadas em ~30 a 45 minutos.
+- **Edredons, Cobertores & Mantas**: Máquinas de grande porte projetadas para peças volumosas sem sobrecarregar a lavadora doméstica.
+- **Roupas de Cama, Mesa e Banho**: Higienização com toque macio e produtos antialérgicos inclusos.
+- **Casacos, Jaquetas e Peças de Inverno**: Secagem uniforme e sem cheiro de umidade ou mofo.
+- **Roupas Esportivas**: Remoção eficaz de suor e odores preservando fibras sintéticas.
 
 ## Diferenciais
 
-- Coleta e devolução no endereço do cliente em Novo Hamburgo/RS, com pedido mínimo de R$ 60,00.
-- Sustentabilidade e responsabilidade com licença formal da SEMAM Novo Hamburgo.
-- Produtos biodegradáveis, certificados e que preservam as cores e a durabilidade das fibras têxteis.
-- Tradição, atendimento ágil e pontualidade na entrega.
+- Roupas lavadas e secas em menos de 1 hora.
+- Sabão e amaciante dosados automaticamente sem custo extra.
+- Totem eletrônico de autoatendimento prático (PIX, débito e crédito).
+- Ambiente climatizado, confortável, limpo e com Wi-Fi gratuito de alta velocidade.
+- Suporte e atendimento para dúvidas pelo WhatsApp (51) 99228-5222.

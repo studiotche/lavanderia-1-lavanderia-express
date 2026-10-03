@@ -1,5 +1,5 @@
 /* ==========================================================================
-   LAVANDERIA BREIER — GLOBAL STYLESHEET
+   EASY WASH LAVANDERIA AUTOATENDIMENTO — GLOBAL STYLESHEET
    Consolidação completa e organizada dos estilos do site em arquivo único.
    ========================================================================== */
 
@@ -26,17 +26,20 @@
    2. DESIGN TOKENS & VARIÁVEIS CSS
    -------------------------------------------------------------------------- */
 :root {
-  --navy: #1b5699;
-  --navy-dark: #15457b;
-  --cyan: #91c8dc;
-  --cyan-dark: #145f85;
-  --cyan-light: #cdecf8;
-  --cyan-soft: #eef8fc;
-  --gold: #d0a620;
-  --gold-light: #f5d680;
-  --text: #4f5667;
-  --text-muted: #545c69;
-  --border: #dce3ea;
+  --navy: #103440;
+  --navy-dark: #09222b;
+  --cyan: #5EBFD9;
+  --cyan-dark: #2a8fa8;
+  --cyan-light: #daf3fa;
+  --cyan-soft: #f0fafc;
+  --gold: #A12954;
+  --gold-light: #fceef3;
+  --secondary: #A12954;
+  --secondary-hover: #831d42;
+  --secondary-light: #fceef3;
+  --text: #334155;
+  --text-muted: #64748b;
+  --border: #cbd5e1;
   --serif: 'Space Grotesk', Arial, sans-serif;
   --sans: 'DM Sans', Arial, sans-serif;
   --container: 1180px;
@@ -298,7 +301,7 @@ button {
   height: 48px;
   padding: 0 24px;
   background: #fff !important;
-  color: #1b5699 !important;
+  color: var(--secondary) !important;
   font-size: 13px;
   font-weight: 700;
   border-radius: 8px;
@@ -743,9 +746,9 @@ body.menu-open {
   gap: 7px;
   margin-bottom: 12px;
   padding: 6px 14px;
-  background: rgba(27, 86, 153, 0.08);
-  color: #1b5699;
-  border: 1.5px solid rgba(27, 86, 153, 0.22);
+  background: rgba(161, 41, 84, 0.08);
+  color: var(--secondary);
+  border: 1.5px solid rgba(161, 41, 84, 0.25);
   border-radius: 20px;
   font-size: 12px;
   font-weight: 700;
@@ -1038,7 +1041,7 @@ body.menu-open {
   position: relative;
   height: 174px !important;
   aspect-ratio: 208 / 124;
-  background: #1b5699;
+  background: var(--navy);
   overflow: visible;
   flex-shrink: 0 !important;
 }
@@ -1232,7 +1235,7 @@ body.menu-open {
    -------------------------------------------------------------------------- */
 .institutional-section {
   position: relative;
-  background: #1b5699;
+  background: linear-gradient(135deg, #103440 0%, #194e5e 100%);
   overflow: hidden;
   border-top: 0;
   border-bottom: 0;
@@ -2020,7 +2023,7 @@ body.menu-open {
 .site-footer {
   padding-top: var(--section-py) !important;
   margin-top: 0 !important;
-  background: linear-gradient(110deg, #1b5699, #123f73);
+  background: linear-gradient(110deg, #103440 0%, #09222b 100%);
   color: #fff;
   border-bottom: 0;
 }
