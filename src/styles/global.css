@@ -1875,10 +1875,8 @@ body.menu-open {
    -------------------------------------------------------------------------- */
 .cta-contact-section {
   position: relative;
-  background: #0d1e36;
-  background-image:
-    radial-gradient(ellipse 70% 60% at 50% 0%, rgba(27, 86, 153, 0.35), transparent 70%),
-    linear-gradient(180deg, #0d1e36 0%, #081424 100%);
+  background: #540A37 !important;
+  background-image: none !important;
   color: #fff;
   padding: 100px 24px;
   text-align: center;
@@ -1898,7 +1896,7 @@ body.menu-open {
 
 .cta-contact-eyebrow {
   display: inline-block;
-  color: var(--cyan);
+  color: #ffffff;
   font-family: var(--sans);
   font-size: 0.82rem;
   font-weight: 700;
@@ -1921,7 +1919,7 @@ body.menu-open {
 .cta-contact-subtitle {
   font-family: var(--sans);
   font-size: 1rem;
-  color: rgba(255, 255, 255, 0.85);
+  color: rgba(255, 255, 255, 0.9);
   line-height: 1.55;
   max-width: 480px;
   margin: 0 0 30px;
@@ -1933,16 +1931,16 @@ body.menu-open {
   justify-content: center;
   gap: 9px;
   height: 52px;
-  background: var(--navy);
-  color: #ffffff;
+  background: #ffffff !important;
+  color: #540A37 !important;
   font-family: var(--sans);
   font-size: 0.95rem;
   font-weight: 700;
   line-height: 1;
   padding: 0 28px;
   border-radius: 8px;
-  border: 1.5px solid rgba(145, 200, 220, 0.35);
-  box-shadow: 0 4px 14px rgba(27, 86, 153, 0.25);
+  border: 1.5px solid transparent !important;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18) !important;
   cursor: pointer;
   text-decoration: none;
   transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1),
@@ -1953,15 +1951,14 @@ body.menu-open {
 }
 
 .btn-cta-whatsapp:hover {
-  background: var(--navy-dark);
-  border-color: rgba(145, 200, 220, 0.5);
-  transform: translateY(-3px);
-  box-shadow: 0 8px 22px rgba(27, 86, 153, 0.35);
-  color: #ffffff;
+  background: #fdf5f8 !important;
+  color: #540A37 !important;
+  transform: translateY(-3px) !important;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.25) !important;
 }
 
 .btn-cta-whatsapp:active {
-  transform: translateY(-1px);
+  transform: translateY(-1px) !important;
 }
 
 .btn-cta-whatsapp .icon-whatsapp {
