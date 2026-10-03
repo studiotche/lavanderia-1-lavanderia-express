@@ -28,7 +28,7 @@
 :root {
   --navy: #103440;
   --navy-dark: #09222b;
-  --cyan: #41A2B5;
+  --cyan: #45a2c0;
   --cyan-dark: #2a8fa8;
   --cyan-light: #daf3fa;
   --cyan-soft: #f0fafc;
@@ -37,7 +37,7 @@
   --secondary: #A12954;
   --secondary-hover: #831d42;
   --secondary-light: #fceef3;
-  --text: #41A2B5;
+  --text: var(--cyan);
   --text-muted: #64748b;
   --border: #cbd5e1;
   --serif: 'Space Grotesk', Arial, sans-serif;
@@ -233,7 +233,7 @@ button {
   height: 46px !important;
   padding: 0 20px !important;
   gap: 8px;
-  color: #41A2B5 !important;
+  color: var(--cyan) !important;
   background: #ffffff !important;
   border: 1.5px solid transparent !important;
   border-radius: 8px;
@@ -478,7 +478,7 @@ button {
   width: 100% !important;
   z-index: 1000 !important;
   height: 88px !important;
-  background: #41A2B5 !important;
+  background: var(--cyan) !important;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2) !important;
   -webkit-backdrop-filter: blur(12px) !important;
   backdrop-filter: blur(12px) !important;
@@ -774,7 +774,7 @@ body.menu-open {
 }
 
 .hero-title {
-  color: #41A2B5 !important;
+  color: var(--cyan) !important;
   font-family: var(--serif);
   max-width: 620px;
   font-size: clamp(2.75rem, 4vw, 3.6rem);
@@ -785,7 +785,7 @@ body.menu-open {
 
 .hero-title span,
 .hero-title-brand {
-  color: #41A2B5 !important;
+  color: var(--cyan) !important;
 }
 
 .hero-description {
@@ -1250,7 +1250,7 @@ body.menu-open {
    -------------------------------------------------------------------------- */
 .institutional-section {
   position: relative;
-  background: #45A2C0 !important;
+  background: var(--cyan) !important;
   overflow: hidden;
   border-top: 0;
   border-bottom: 0;
@@ -2035,7 +2035,7 @@ body.menu-open {
 .site-footer {
   padding-top: var(--section-py) !important;
   margin-top: 0 !important;
-  background: #41A2B5 !important;
+  background: var(--cyan) !important;
   color: #fff;
   border-bottom: 0;
 }
