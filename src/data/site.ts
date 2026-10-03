@@ -48,7 +48,7 @@ export const services = [
   { id: "edredons-cobertores", image: "/images/service-edredons.webp", icon: "/images/icon-tapetes.webp", imagePosition: "center", title: "Edredons, cobertores & mantas", text: "Máquinas industriais com grande capacidade para edredons de casal e queen, sem sobrecarregar sua máquina doméstica.", query: "Lavagem de edredom e cobertas" },
   { id: "cama-mesa-banho", image: "/images/service-cama-mesa-banho.webp", icon: "/images/icon-cortinas.webp?v=2", imagePosition: "center", title: "Roupas de cama, mesa & banho", text: "Higienização profunda com alto padrão de maciez para toalhas, lençóis e roupas de banho fofas e aconchegantes.", query: "Roupas de cama mesa e banho" },
   { id: "casacos-inverno", image: "/images/service-couro.webp", icon: "/images/icon-couro.webp?v=2", imagePosition: "center", title: "Casacos, jaquetas & peças pesadas", text: "Praticidade para renovar peças pesadas de inverno, almofadas e mantas com secagem uniforme sem mofo ou umidade.", query: "Lavagem de casacos e peças pesadas" },
-  { id: "linha-esportiva", image: "/images/service-calcados.webp", icon: "/images/icon-calcados.webp?v=2", imagePosition: "center", title: "Roupas esportivas & tecidos leves", text: "Remoção eficaz de suor e odores preservando tecidos tecnológicos, dry fit e lycra com produtos seguros e eficientes.", query: "Lavagem de roupas esportivas" },
+  { id: "linha-esportiva", image: "/images/service-esportivas.webp", icon: "/images/icon-calcados.webp?v=2", imagePosition: "center", title: "Roupas esportivas & tecidos leves", text: "Remoção eficaz de suor e odores preservando tecidos tecnológicos, dry fit e lycra com produtos seguros e eficientes.", query: "Lavagem de roupas esportivas" },
 ] as const;
 
 export const aboutBenefits = [

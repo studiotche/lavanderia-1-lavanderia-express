@@ -769,8 +769,9 @@ body.menu-open {
   letter-spacing: -0.035em;
 }
 
-.hero-title span {
-  color: var(--cyan-dark);
+.hero-title span,
+.hero-title-brand {
+  color: #540A37 !important;
 }
 
 .hero-description {
