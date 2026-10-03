@@ -1162,8 +1162,10 @@ body.menu-open {
 }
 
 .about-composite {
-  display: block !important;
-  height: 320px !important;
+  display: flex !important;
+  height: 100% !important;
+  min-height: 100% !important;
+  align-self: stretch !important;
   border-radius: 12px !important;
   overflow: hidden !important;
   background: none !important;
