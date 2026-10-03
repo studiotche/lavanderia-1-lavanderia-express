@@ -9,3 +9,6 @@ dist/
 .playwright-mcp/
 .vscode/
 .agents/
+imagens-google-maps/
+maps.html
+reviews.txt
