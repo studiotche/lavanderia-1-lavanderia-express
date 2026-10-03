@@ -2605,6 +2605,26 @@ body.menu-open {
 
   .footer-brand {
     grid-column: span 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-brand .footer-logo {
+    display: flex;
+    justify-content: center;
+    margin-inline: auto;
+  }
+
+  .footer-brand > p {
+    max-width: 320px;
+    text-align: center;
+    margin: 14px auto 18px;
+  }
+
+  .footer-brand .social-links {
+    justify-content: center;
   }
 
   .footer-contact,
