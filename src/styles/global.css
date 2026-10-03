@@ -28,7 +28,7 @@
 :root {
   --navy: #103440;
   --navy-dark: #09222b;
-  --cyan: #5EBFD9;
+  --cyan: #41A2B5;
   --cyan-dark: #2a8fa8;
   --cyan-light: #daf3fa;
   --cyan-soft: #f0fafc;
@@ -37,7 +37,7 @@
   --secondary: #A12954;
   --secondary-hover: #831d42;
   --secondary-light: #fceef3;
-  --text: #334155;
+  --text: #41A2B5;
   --text-muted: #64748b;
   --border: #cbd5e1;
   --serif: 'Space Grotesk', Arial, sans-serif;
@@ -2023,7 +2023,7 @@ body.menu-open {
 .site-footer {
   padding-top: var(--section-py) !important;
   margin-top: 0 !important;
-  background: linear-gradient(110deg, #103440 0%, #09222b 100%);
+  background: #41A2B5 !important;
   color: #fff;
   border-bottom: 0;
 }
@@ -2050,13 +2050,13 @@ body.menu-open {
 }
 
 .footer-logo .logo-copy small {
-  color: var(--cyan-light);
+  color: #fff;
 }
 
 .footer-brand>p {
   max-width: 180px;
   margin: 15px 0;
-  color: rgba(255, 255, 255, 0.85);
+  color: rgba(255, 255, 255, 0.95);
   font-size: 0.95rem;
   line-height: 1.5;
 }
@@ -2071,9 +2071,16 @@ body.menu-open {
   place-items: center;
   width: 26px;
   height: 26px;
-  border: 1px solid rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.4);
   border-radius: 50%;
   overflow: hidden;
+  transition: transform 0.2s, background 0.2s;
+}
+
+.social-links a:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateY(-2px);
 }
 
 .social-links a svg {
@@ -2093,21 +2100,23 @@ body.menu-open {
   content: "";
   display: block;
   width: 22px;
-  height: 1px;
+  height: 2px;
   margin-top: 6px;
-  background: var(--gold);
+  background: #fff;
+  opacity: 0.8;
 }
 
 .footer-col li,
 .footer-col p {
   margin-bottom: 8px;
-  color: rgba(255, 255, 255, 0.85);
+  color: rgba(255, 255, 255, 0.92);
   font-size: 0.9rem;
   line-height: 1.45;
 }
 
 .footer-col a:hover {
   color: #fff;
+  text-decoration: underline;
 }
 
 .footer-contact p {
@@ -2123,7 +2132,7 @@ body.menu-open {
 }
 
 .footer-icon-phone {
-  color: var(--gold);
+  color: #fff;
 }
 
 .footer-bottom {
@@ -2132,8 +2141,8 @@ body.menu-open {
   align-items: center;
   gap: 30px;
   padding: 18px 0;
-  color: rgba(255, 255, 255, 0.82);
-  border-top: 1px solid rgba(255, 255, 255, 0.16);
+  color: rgba(255, 255, 255, 0.9);
+  border-top: 1px solid rgba(255, 255, 255, 0.25);
   font-size: 0.75rem;
   text-align: left;
 }
