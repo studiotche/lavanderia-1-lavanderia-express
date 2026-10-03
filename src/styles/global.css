@@ -1015,7 +1015,7 @@ body.menu-open {
 
 .services-grid {
   display: grid !important;
-  grid-template-columns: repeat(4, 1fr) !important;
+  grid-template-columns: repeat(3, 1fr) !important;
   gap: 24px !important;
   border: 0 !important;
 }
@@ -2178,10 +2178,6 @@ body.menu-open {
    18. RESPONSIVIDADE & MEDIA QUERIES
    -------------------------------------------------------------------------- */
 @media (max-width: 1100px) {
-  .services-grid {
-    grid-template-columns: repeat(2, 1fr) !important;
-  }
-
   .about-benefits {
     grid-template-columns: repeat(4, 1fr);
   }
