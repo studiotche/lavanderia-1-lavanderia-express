@@ -19,6 +19,7 @@ export const site = {
   mapsEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3469.873284055273!2d-51.137551!3d-29.6781317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951943003876459f%3A0x5d2179ee9022864e!2sEasy%20Wash%20Lavanderia%20Autoatendimento%20Novo%20Hamburgo!5e0!3m2!1spt-BR!2sbr!4v1727960000000!5m2!1spt-BR!2sbr",
   mapsUrl: "https://www.google.com/maps/dir/?api=1&destination=-29.6781317,-51.137551",
   rating: "5,0",
+  reviewCount: "26",
   socialStats: { followers: "500+", posts: "25+" },
   environmentalLicense: "Ecológica",
   freeDelivery: "Roupas Prontas em <1h",

@@ -31,7 +31,7 @@ const jsonLd = {
     "@type": "AggregateRating",
     ratingValue: "5.0",
     bestRating: "5",
-    reviewCount: `${reviews.length}`,
+    reviewCount: site.reviewCount,
   },
 };
 ---
@@ -350,7 +350,7 @@ const jsonLd = {
                   </svg>
                 ))}
               </span>
-              <small>{reviews.length} avaliações</small>
+              <small>{site.reviewCount} avaliações</small>
             </a>
           </div>
         </div>
