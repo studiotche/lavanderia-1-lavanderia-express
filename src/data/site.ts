@@ -34,7 +34,7 @@ export const site = {
   assets: {
     hero: "/images/lavanderia-easy-wash.webp",
     about: "/images/about-heritage.webp?v=2",
-    institutional: "/images/lavanderia-breier-hero.webp",
+    institutional: "/images/lavanderia-easy-wash-hero.webp",
     logo: "/images/logo-lavanderia-easy-wash.webp",
     storefront: "/images/lavanderia-easy-wash.webp",
     instagram: "/images/service-roupas.webp",
