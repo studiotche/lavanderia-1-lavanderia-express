@@ -1,7 +1,7 @@
 /* TEAM */
 Empresa: #1 Lavanderia Express Estância Velha
 Local: Estância Velha, Rio Grande do Sul, Brasil
-Website: https://studiotche.github.io/lavanderia--1-lavanderia-express/
+Website: https://studiotche.github.io/lavanderia-1-lavanderia-express/
 Contato: (51) 99950-4063
 
 /* SITE */

@@ -29,14 +29,14 @@ export const site = {
   seo: {
     title: "#1 Lavanderia Express Estância Velha | Autoatendimento em Menos de 1h",
     description: "Lave e seque suas roupas em menos de 1h na #1 Lavanderia Express em Estância Velha. Sabão e amaciante inclusos, espaço kids, café expresso, TV, ar-condicionado e Wi-Fi.",
-    url: "https://studiotche.github.io/lavanderia--1-lavanderia-express",
+    url: "https://studiotche.github.io/lavanderia-1-lavanderia-express",
     ogImage: "/images/lavanderia-easy-wash.webp",
   },
   assets: {
     hero: "/images/lavanderia-easy-wash.webp",
-    about: "/images/about-#1-lavanderia-express.webp",
+    about: "/images/about-1-lavanderia-express.webp",
     institutional: "/images/lavanderia-easy-wash-hero.webp",
-    logo: "/images/logo-lavanderia-#1-express.webp",
+    logo: "/images/logo-lavanderia-1-express.webp",
     storefront: "/images/lavanderia-easy-wash.webp",
     instagram: "/images/service-roupas.webp",
     instagramFeed: "/images/service-roupas.webp",
