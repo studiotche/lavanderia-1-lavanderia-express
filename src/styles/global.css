@@ -1250,6 +1250,7 @@ body.menu-open {
   object-fit: contain;
   border: 0;
   border-radius: 50%;
+  filter: hue-rotate(271deg) saturate(1.2);
 }
 
 .about-benefits span.benefit-icon {
