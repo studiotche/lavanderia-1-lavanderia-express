@@ -1538,6 +1538,7 @@ body.menu-open {
   border-radius: 0;
   background: transparent;
   position: static;
+  filter: hue-rotate(271deg) saturate(1.2);
 }
 
 .process-step h3 {
