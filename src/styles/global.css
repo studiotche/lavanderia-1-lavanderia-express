@@ -1111,7 +1111,7 @@ body.menu-open {
   object-fit: contain;
   background: transparent !important;
   border-radius: 50% !important;
-  filter: drop-shadow(0 2px 6px rgba(16, 31, 77, 0.25));
+  filter: hue-rotate(286deg) saturate(1.2);
 }
 
 .service-content {
