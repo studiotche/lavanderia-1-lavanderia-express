@@ -527,6 +527,13 @@ button {
   object-fit: contain;
 }
 
+.footer-logo img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  display: block;
+}
+
 .logo-copy {
   display: flex;
   flex-direction: column;
