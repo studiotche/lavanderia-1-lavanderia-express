@@ -1,4 +1,4 @@
-name: Deploy Easy Wash to GitHub Pages
+name: Deploy #1 Lavanderia Express to GitHub Pages
 
 on:
   push:

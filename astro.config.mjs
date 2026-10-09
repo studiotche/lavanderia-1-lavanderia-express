@@ -1,7 +1,7 @@
 import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 
-const pagesBase = process.env.PAGES_BASE ?? "/lavanderia-easy-wash/";
+const pagesBase = process.env.PAGES_BASE ?? "/lavanderia--1-lavanderia-express/";
 
 export default defineConfig({
   site: "https://studiotche.github.io",
