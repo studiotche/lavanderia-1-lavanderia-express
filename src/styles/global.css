@@ -1555,6 +1555,7 @@ body.menu-open {
   border-radius: 0;
   background: transparent;
   position: static;
+  filter: hue-rotate(286deg) saturate(1.2);
 }
 
 .process-step h3 {
@@ -2593,7 +2594,7 @@ body.menu-open {
     padding-top: 24px;
   }
 
-  .about-benefits > div,
+  .about-benefits>div,
   .about-benefit-item {
     display: flex !important;
     flex-direction: column !important;
@@ -2815,7 +2816,7 @@ body.menu-open {
     gap: 10px !important;
   }
 
-  .about-benefits > div,
+  .about-benefits>div,
   .about-benefit-item {
     padding: 14px 8px !important;
   }
