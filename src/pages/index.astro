@@ -205,19 +205,21 @@ const jsonLd = {
     </section>
 
     <section class="about-section" id="sobre" aria-labelledby="about-title">
-      <div class="container about-grid">
-        <div class="about-composite">
-          <img src={asset(site.assets.about)} alt="Ambiente limpo e aconchegante da #1 Lavanderia Express" width="540" height="400" loading="lazy" />
-        </div>
-        <div class="about-copy">
-          <span class="about-eyebrow">SOBRE A #1 LAVANDERIA EXPRESS</span>
-          <h2 id="about-title">Praticidade, conforto e carinho para a sua rotina.</h2>
-          <p>A #1 Lavanderia Express chegou em Estância Velha para transformar a sua rotina no cuidado com as roupas e peças da casa. Em nosso espaço moderno e aconchegante de autoatendimento, você lava e seca peças do dia a dia, edredons volumosos e mantas com máxima agilidade e economia real.</p>
-          <p>Sem estresse com varal, chuva ou contas de luz em casa: aproveite nosso ambiente climatizado com ar-condicionado, TV, Wi-Fi de alta velocidade, café expresso quentinho e espaço kids para as crianças, enquanto nossas máquinas industriais cuidam de tudo com dosagem automática de produtos de primeira linha e borrifador com perfume exclusivo.</p>
+      <div class="container">
+        <div class="about-grid">
+          <div class="about-composite">
+            <img src={asset(site.assets.about)} alt="Ambiente limpo e aconchegante da #1 Lavanderia Express" width="540" height="400" loading="lazy" />
+          </div>
+          <div class="about-copy">
+            <span class="about-eyebrow">SOBRE A #1 LAVANDERIA EXPRESS</span>
+            <h2 id="about-title">Praticidade, conforto e carinho para a sua rotina.</h2>
+            <p>A #1 Lavanderia Express chegou em Estância Velha para transformar a sua rotina no cuidado com as roupas e peças da casa. Em nosso espaço moderno e aconchegante de autoatendimento, você lava e seca peças do dia a dia, edredons volumosos e mantas com máxima agilidade e economia real.</p>
+            <p>Sem estresse com varal, chuva ou contas de luz em casa: aproveite nosso ambiente climatizado com ar-condicionado, TV, Wi-Fi de alta velocidade, café expresso quentinho e espaço kids para as crianças, enquanto nossas máquinas industriais cuidam de tudo com dosagem automática de produtos de primeira linha e borrifador com perfume exclusivo.</p>
+          </div>
         </div>
         <div class="about-benefits">
           {aboutBenefits.map((benefit) => (
-            <div>
+            <div class="about-benefit-item">
               <img src={asset(benefit.icon)} alt="" class="benefit-icon" width="54" height="54" loading="lazy" aria-hidden="true" />
               <strong set:html={benefit.title} />
             </div>

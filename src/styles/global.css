@@ -1237,37 +1237,39 @@ body.menu-open {
 }
 
 .about-benefits {
-  grid-column: 1 / -1;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 18px;
-  margin-top: 16px;
-  padding-top: 32px;
+  gap: 20px;
+  margin-top: 40px;
+  padding-top: 36px;
   border-top: 1px solid rgba(8, 75, 40, 0.12);
 }
 
-.about-benefits>div {
+.about-benefits>div,
+.about-benefit-item {
   display: flex;
   align-items: center;
   gap: 14px;
   color: var(--navy);
   background: #ffffff;
   padding: 16px 18px;
-  border-radius: 12px;
+  border-radius: 14px;
   border: 1px solid rgba(8, 75, 40, 0.08);
-  box-shadow: 0 3px 12px rgba(8, 75, 40, 0.04);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 4px 14px rgba(8, 75, 40, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
 
-.about-benefits>div:hover {
+.about-benefits>div:hover,
+.about-benefit-item:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 18px rgba(8, 75, 40, 0.08);
+  border-color: rgba(28, 144, 71, 0.25);
+  box-shadow: 0 8px 22px rgba(8, 75, 40, 0.08);
 }
 
 .about-benefits .benefit-icon {
-  flex: 0 0 50px;
-  width: 50px;
-  height: 50px;
+  flex: 0 0 52px;
+  width: 52px;
+  height: 52px;
   object-fit: contain;
   border: 0;
   border-radius: 50%;
@@ -1280,7 +1282,7 @@ body.menu-open {
 
 .about-benefits strong {
   font-size: 0.92rem;
-  line-height: 1.3;
+  line-height: 1.32;
   color: var(--navy);
   font-weight: 700;
 }
@@ -2336,15 +2338,7 @@ body.menu-open {
 
   .about-grid {
     grid-template-columns: 1fr 1fr;
-    gap: 40px;
-  }
-
-  .about-composite {
-    grid-row: span 2;
-  }
-
-  .about-benefits {
-    grid-column: 2;
+    gap: 36px;
   }
 
   .process-grid {
@@ -2601,17 +2595,10 @@ body.menu-open {
   }
 
   .about-benefits {
-    grid-column: 1 / -1;
     grid-template-columns: repeat(2, 1fr);
     gap: 14px;
-    margin-top: 8px;
+    margin-top: 28px;
     padding-top: 24px;
-  }
-
-  @media (max-width: 520px) {
-    .about-benefits {
-      grid-template-columns: 1fr;
-    }
   }
 
   .testimonial-heading {
