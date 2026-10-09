@@ -26,15 +26,15 @@
    2. DESIGN TOKENS & VARIÁVEIS CSS
    -------------------------------------------------------------------------- */
 :root {
-  --navy: #103440;
+  --navy: #084B28;
   --navy-dark: #09222b;
-  --cyan: #4CA0BD;
-  --cyan-dark: #2a8fa8;
+  --cyan: #1C9047;
+  --cyan-dark: #07C160;
   --cyan-light: #daf3fa;
   --cyan-soft: #f0fafc;
-  --gold: #A12954;
+  --gold: #99B725;
   --gold-light: #fceef3;
-  --secondary: #A12954;
+  --secondary: #1C9047;
   --secondary-hover: #831d42;
   --secondary-light: #fceef3;
   --text: var(--cyan);
@@ -2617,7 +2617,7 @@ body.menu-open {
     margin-inline: auto;
   }
 
-  .footer-brand > p {
+  .footer-brand>p {
     max-width: 320px;
     text-align: center;
     margin: 14px auto 18px;
