@@ -33,10 +33,10 @@
   --cyan-light: #daf3fa;
   --cyan-soft: #f0fafc;
   --gold: #99B725;
-  --gold-light: #fceef3;
+  --gold-light: #eaf5ee;
   --secondary: #1C9047;
-  --secondary-hover: #831d42;
-  --secondary-light: #fceef3;
+  --secondary-hover: var(--navy-dark);
+  --secondary-light: #eaf5ee;
   --text: var(--cyan);
   --text-muted: #64748b;
   --border: #cbd5e1;
@@ -234,28 +234,20 @@ button {
   padding: 0 20px !important;
   gap: 8px;
   color: #ffffff !important;
-  background: var(--cyan) !important;
-  border: 1.5px solid var(--cyan) !important;
+  background: var(--navy) !important;
+  border: 1.5px solid var(--navy) !important;
   border-radius: 8px;
   font-size: 0.92rem !important;
   font-weight: 700 !important;
-  box-shadow: 0 4px 14px rgba(28, 144, 71, 0.25) !important;
+  box-shadow: none !important;
 }
 
 .btn-header-whatsapp:hover {
-  background: var(--navy) !important;
-  border-color: var(--navy) !important;
+  background: var(--navy-dark) !important;
+  border-color: var(--navy-dark) !important;
   color: #ffffff !important;
   transform: translateY(-2px) !important;
-  box-shadow: 0 6px 18px rgba(8, 75, 40, 0.3) !important;
-}
-
-.btn-header-whatsapp .icon-whatsapp path:first-child {
-  fill: #ffffff !important;
-}
-
-.btn-header-whatsapp .icon-whatsapp path:last-child {
-  fill: var(--cyan) !important;
+  box-shadow: none !important;
 }
 
 .btn-hero-primary:hover,
@@ -521,8 +513,8 @@ button {
 }
 
 .header-logo img {
-  height: 60px;
-  max-height: 64px;
+  height: 66px;
+  max-height: 66px;
   width: auto;
   object-fit: contain;
 }
@@ -1118,7 +1110,6 @@ body.menu-open {
   object-fit: contain;
   background: transparent !important;
   border-radius: 50% !important;
-  filter: hue-rotate(286deg) saturate(1.2);
 }
 
 .service-content {
@@ -1273,7 +1264,6 @@ body.menu-open {
   object-fit: contain;
   border: 0;
   border-radius: 50%;
-  filter: hue-rotate(271deg) saturate(1.2);
 }
 
 .about-benefits span.benefit-icon {
@@ -1563,7 +1553,6 @@ body.menu-open {
   border-radius: 0;
   background: transparent;
   position: static;
-  filter: hue-rotate(271deg) saturate(1.2);
 }
 
 .process-step h3 {
@@ -1932,7 +1921,7 @@ body.menu-open {
    -------------------------------------------------------------------------- */
 .cta-contact-section {
   position: relative;
-  background: #540A37 !important;
+  background: var(--navy) !important;
   background-image: none !important;
   color: #fff;
   padding: 100px 24px;
@@ -1989,7 +1978,7 @@ body.menu-open {
   gap: 9px;
   height: 52px;
   background: #ffffff !important;
-  color: #540A37 !important;
+  color: var(--navy) !important;
   font-family: var(--sans);
   font-size: 0.95rem;
   font-weight: 700;
@@ -2008,8 +1997,8 @@ body.menu-open {
 }
 
 .btn-cta-whatsapp:hover {
-  background: #fdf5f8 !important;
-  color: #540A37 !important;
+  background: #f0fdf4 !important;
+  color: var(--navy-dark) !important;
   transform: translateY(-3px) !important;
   box-shadow: 0 8px 22px rgba(0, 0, 0, 0.25) !important;
 }
